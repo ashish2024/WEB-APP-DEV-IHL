@@ -20,15 +20,18 @@ click on the path and type cmd  and after opening cmd write this code [code .] f
 Run the terminal and run these command :
 npx create-react-app my-app
 this will create the app files.
-then type npm start to start the app and the local host address will come.
+Then type npm start to start the app and the local host address will come.
 
-In the src folder use 
+In the src folder use :
 App.js
 NavBar.js
 Index.js
 TestAction.js 
 
 for designing and editing the app definations.
+
+for importing different styles use this site :  https://getbootstrap.com/docs/5.3/getting-started/introduction/
+for install reference: https://create-react-app.dev/docs/getting-started
 
 
 
