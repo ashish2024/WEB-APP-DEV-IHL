@@ -30,6 +30,9 @@ TestAction.js
 
 for designing and editing the app definations.
 
+
+
+RUN APP.JS FILE      FOR OUTPUT     
 for importing different styles use this site :  https://getbootstrap.com/docs/5.3/getting-started/introduction/
 for install reference: https://create-react-app.dev/docs/getting-started
 
